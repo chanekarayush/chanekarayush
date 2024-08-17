@@ -10,8 +10,7 @@ Whether I'm crafting seamless digital experiences or turning coffee into code, I
 ### 🎥 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@chanekarayush)
 - Sharing what I know and learning as I go—subscribe if you’re into tech, tutorials, or the occasional dad joke.  
   **[![YouTube](https://img.shields.io/badge/Subscribe-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@chanekarayush)**
-
-![YouTube Subscribe GIF](https://media.giphy.com/media/2wSnhwze2oE08/giphy.gif)
+  
 
 ### 💻 Full-Stack Development
 - **Front-End Magic:** Making the web look good one pixel at a time.
