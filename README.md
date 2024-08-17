@@ -9,7 +9,6 @@ Whether I'm crafting seamless digital experiences or turning coffee into code, I
 
 ### 🎥 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@chanekarayush)
 - Sharing what I know and learning as I go—subscribe if you’re into tech, tutorials, or the occasional dad joke.  
-  **[![YouTube](https://img.shields.io/badge/Subscribe-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@chanekarayush)**
   
 
 ### 💻 Full-Stack Development
