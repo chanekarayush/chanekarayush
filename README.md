@@ -5,46 +5,20 @@ I'm a full-stack developer by day, a machine learning enthusiast by night,
 and a part-time YouTuber when I need a break from code.  
 Whether I'm crafting seamless digital experiences or turning coffee into code, I'm always up for a challenge.
 
-## 🚀 What I Do
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-chanekar-1b2986257) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@chanekarayush) 
 
-### 🎥 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@chanekarayush)
-- Sharing what I know and learning as I go—subscribe if you’re into tech, tutorials, or the occasional dad joke.  
-  
+# 💻 Tech Stack:
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=plastic&logo=assemblyscript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=plastic&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=plastic&logo=apachehive&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=plastic&logo=krita&logoColor=EEF37B) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=chanekarayush&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=chanekarayush&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chanekarayush&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 💻 Full-Stack Development
-- **Front-End Magic:** Making the web look good one pixel at a time.
-- **Back-End Sorcery:** Ensuring everything works behind the scenes (no black magic, I promise).
-
-### 🤖 Machine Learning
-- Teaching machines to learn so they can (hopefully) do my homework one day.
-
-## 🌟 Featured Projects
-
-### 🔬 Virtual Physics Lab
-- **The Concept:** Bringing physics experiments to your screen, no lab coat required.
-- **Tech Stack:** React, Node.js, and a dash of physics wizardry.
-
-### 🗓️ Timetable Generator
-- **The Problem:** Scheduling chaos, solved.
-- **The Solution:** A generator that organizes your life (or at least your classes).
-
-### 🗣️ Text-to-Speech Engine
-- **What It Does:** Gives a voice to your text, quite literally.
-- **Why It’s Cool:** Because who doesn’t love a good text-to-speech conversion?
-
-## 🛠️ Tools of the Trade
-- **Languages:** JavaScript, Python, C++, and Sarcasm (fluent in all four).
-- **Frameworks:** React, Node.js, Django—basically, if it’s cool, I’ve probably tried it.
-- **Databases:** MongoDB, MySQL—because data needs a home.
-
-## 💬 Let’s Connect!
-- If you’re into code, tech, or just want to say hi, feel free to reach out. My inbox is always open, and I’m just a message away!
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=chanekarayush&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=chanekarayush&icon=2&color=0)](https://visitcount.itsvg.in)
 
-**[Visit My Portfolio](https://chanekarayush.github.io/)** to see more of what I do!
-
-## Visitor Count
-<p align="center">
-<img src="https://profile-counter.glitch.me/{chanekarayush}/count.svg">
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
